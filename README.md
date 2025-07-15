@@ -1,4 +1,4 @@
-##Código final del proyecto de Matemáticas Especiales
+## Código final del proyecto de Matemáticas Especiales
 
 Luisa Muñoz
 Mariana Méndez
